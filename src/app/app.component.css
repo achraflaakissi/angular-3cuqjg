@@ -1,0 +1,17 @@
+p {
+  font-family: Lato;
+}
+#chartdiv {
+	min-width: 305px;
+  /* width: 100%; */
+  height: 400px;
+}
+p{
+  width: 100%;
+  padding-left: 20px;
+}
+
+div.scrollmenu {
+  overflow: auto;
+  white-space: nowrap;
+}
